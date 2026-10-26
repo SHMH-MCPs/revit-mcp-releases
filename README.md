@@ -1,6 +1,6 @@
 # Revit MCP
 
-**Let AI assistants read and edit the Revit 2024–2027 model open on your PC.**
+**Let AI assistants read and edit the Revit 2023–2027 model open on your PC.**
 
 Revit MCP is a free add-in for Autodesk Revit with a built-in [Model Context Protocol](https://modelcontextprotocol.io)
 (MCP) server. Claude, ChatGPT, Codex, Cursor, VS Code and other AI assistants use it to work with the model that is open
@@ -27,9 +27,9 @@ Every change is one Undo step in Revit, and large or destructive changes can be 
 
 | | |
 |---|---|
-| Revit | 2024, 2025, 2026, 2027 (Revit 2024 alone also needs the .NET 8 Desktop Runtime; setup tells you) |
+| Revit | 2023, 2024, 2025, 2026, 2027 (Revit 2023 or 2024 alone also needs the .NET 8 Desktop Runtime; setup tells you) |
 | Windows | 10 or 11, 64-bit |
-| Account | Google or GitHub (sign in once per PC) |
+| Account | Microsoft, Google or GitHub (sign in once per PC) |
 | Price | Free |
 
 ## Install
