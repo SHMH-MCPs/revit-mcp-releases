@@ -60,7 +60,7 @@ Details: [privacy policy](https://aecomcps.com/privacy) ·
 
 ## Questions
 
-shady.hefilla@hotmail.com · [Navisworks MCP](https://github.com/SHMH-MCPs/navis-mcp-releases) works the same way for Navisworks Manage.
+aecomcps@hotmail.com · [Navisworks MCP](https://github.com/SHMH-MCPs/navis-mcp-releases) works the same way for Navisworks Manage.
 
 ---
 
